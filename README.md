@@ -1,5 +1,4 @@
-- Im new to GitHub and my interests are game development.
-- Im currently learning on how to use the Unity Game Engine.
+----
 
 
 <!---
